@@ -1,1 +1,1 @@
- # Prime Factorization Algorithm
+# Prime Factorization Algorithm
